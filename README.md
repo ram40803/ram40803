@@ -3,13 +3,16 @@
 🎓 I'm an IT student passionate about **Game Development** and currently exploring **Android App Development**.  
 💻 I enjoy working with different technologies and love building things from the ground up.
 
+
+
+![](https://github-readme-stats.vercel.app/api?username=Ram40803&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    ![](https://github-readme-streak-stats.herokuapp.com/?user=Ram40803&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram40803&theme=dark&hide_border=false&layout=compact)
 ---
 
 ## 🚀 Skills & Tools
 
 - 💡 Languages: `Java`, `C`, `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
-- 🎮 Game Dev: `![image](https://github.com/user-attachments/assets/7e0b7c17-dd31-44fc-aed2-6e831b43608a)
-Unity`, `C#` *(in progress)*, `Blender` *(for models/UI)*
+- 🎮 Game Dev: <img alt="Unity" src="https://github.com/user-attachments/assets/9e56588b-565b-40d3-893d-a82ebb68c9c2" width="50"/>, <img alt="C#" src="https://github.com/user-attachments/assets/4226ea3a-f726-4dda-9591-09a415eb0751" width="20"/> *(in progress)*, <img alt="Blender" src="https://github.com/user-attachments/assets/8a2412ff-e04f-46cd-a02f-b3266fc2a9f6" width="65"/> *(for models/UI)*
 - 📱 Android Dev: `Java`, `Kotlin` *(learning)`, `Android Studio`
 - 🌐 Web Dev: `HTML`, `CSS`, `JavaScript`
 
