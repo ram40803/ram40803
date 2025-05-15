@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm ram patidar
+# 👋 Hey there, I'm Ram Patidar
 
 🎓 I'm an IT student passionate about **Game Development** and currently exploring **Android App Development**.  
 💻 I enjoy working with different technologies and love building things from the ground up.
@@ -8,7 +8,8 @@
 ## 🚀 Skills & Tools
 
 - 💡 Languages: `Java`, `C`, `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
-- 🎮 Game Dev: `Unity`, `C#` *(in progress)*, `Blender` *(for models/UI)*
+- 🎮 Game Dev: `![image](https://github.com/user-attachments/assets/7e0b7c17-dd31-44fc-aed2-6e831b43608a)
+Unity`, `C#` *(in progress)*, `Blender` *(for models/UI)*
 - 📱 Android Dev: `Java`, `Kotlin` *(learning)`, `Android Studio`
 - 🌐 Web Dev: `HTML`, `CSS`, `JavaScript`
 
